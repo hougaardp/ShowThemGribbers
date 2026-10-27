@@ -1,0 +1,7 @@
+## Interface: 120105
+## Title: Show them gribbers
+## Notes: Plays an animation when you open the mailbox
+## Author: YourName
+## Version: 1.0
+
+ShowThemGribbers.lua
