@@ -1,6 +1,6 @@
 ## Interface: 120105
 ## Title: Show them gribbers
-## Notes: Plays an animation when you open the mailbox
+## Notes: Plays an animation of gribbers
 ## Author: YourName
 ## Version: 1.0
 
